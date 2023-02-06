@@ -114,8 +114,8 @@ svg {
 }
 
 .newsGrid {
-    overflow: scroll;
-    height: auto;
+    overflow: hidden;
+    height: 83.5%;
     background-color: #432F70;
     border: 1px;
     border-style: solid;
